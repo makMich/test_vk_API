@@ -1,0 +1,17 @@
+{
+  "name": "vkBot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "bot.js",
+  "scripts": {
+    "start": "node bot.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "easyvk": "^1.5.1",
+    "node-vkapi": "^3.0.7",
+    "vk-io": "^4.0.0-rc.8"
+  }
+}
